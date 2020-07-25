@@ -1,13 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Course: ENCMP 100
-% Assignment: 1A
-% Name: Purnapushkala Hariharan
-% CCID: purnapus
-% U of A ID: 1623714
-%
-% Acknowledgements:
-%
+
 % Description:
 % This program is a ENCOMP Final Math Calculator.
 %
