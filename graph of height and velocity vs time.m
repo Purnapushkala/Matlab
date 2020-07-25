@@ -1,12 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Course: ENCMP 100
-% Assignment: 1B
-% Name: Purnapushkala Hariharan
-% CCID: purnapus
-% U of A ID: 1623714
-%
-% Acknowledgements:
-%
+
 % Description:
 % This program plots a graph of height and velocity vs time .
 %
