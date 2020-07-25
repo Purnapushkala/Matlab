@@ -1,12 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Course: ENCMP 100
-% Assignment: 3B
-% Name: Purnapushkala Hariharan
-% CCID: purnapus
-% U of A ID: 1623714
-%
-% Acknowledgements:
-%
+
 % Description:
 % This program calculates savings for college education.
 %
