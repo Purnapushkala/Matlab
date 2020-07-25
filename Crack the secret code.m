@@ -1,14 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Course: ENCMP 100
-% Assignment: 2
-% Name: Purnapushkala Hariharan
-% CCID: purnapus
-% U of A ID: 1623714
-% Acknowledgements:
-%
+
 % Description:
 % This program contains four rules which can be used to crack the
-% secret code to save Maverick the co-op student.
+% secret code to save student.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear;clc;
