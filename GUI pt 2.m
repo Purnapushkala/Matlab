@@ -1,12 +1,4 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Course: ENCMP 100
-% Assignment: 5B
-% Name: Purnapushkala Hariharan
-% CCID: purnapus
-% U of A ID: 1623714
-%
-% Acknowledgements:
-%
 % Description:
 % This program creates multiple dialog boxes, letting the user choose shapes,
 % colors and dimensions from the Graphical User Interface(GUI)
