@@ -1,12 +1,4 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Course: ENCMP 100
-% Assignment: 4A
-% Name:Purnapushkala Hariharan
-% CCID:purnapus
-% U of A ID:1623714
-%
-% Acknowledgements:
-%
 % Description:
 % This program calculates medal standings for Olympics.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
